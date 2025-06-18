@@ -1,4 +1,11 @@
 # `tim`
+## a friendly uncomplicated time tracker
+
+I wrote this because I couldn't find a simple, CLI-based time tracker that also supported marking work as 'billed' or not, which was important to me for the projects I was working on - so I hacked together `tim` in a weekend.
+
+I eventually figured that someone else might find this useful, so now it's on GitHub! Feel free to make issues or (better still) PRs :)
+
+More documentation to come... just as soon as I write it.
 
 **Usage**:
 
